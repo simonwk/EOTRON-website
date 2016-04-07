@@ -1,0 +1,8 @@
+a {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
